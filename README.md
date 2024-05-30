@@ -1,4 +1,4 @@
 # yjtest
 
-Access Key=AKIA5KKNP4SM6EWGQME3 <BR>
-Secret Key=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
+AccessKey = AKIA5KKNP4SMUPLFSA5F
+SecretKey = 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
